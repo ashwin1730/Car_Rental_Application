@@ -42,13 +42,11 @@ A dedicated interface for expanding the car catalog.
 
 | Registration | Home (Catalog) |
 |:---:|:---:|
-| <img src="screenshots/registration.png" width="280"> | <img src="screenshots/home.png" width="280"> |
+| <img src="app/src/main/res/drawable/choosecar.png" width="280"> | <img src="app/src/main/res/drawable/mybookings.png" width="280"> |
 
 | Car Details | My Journeys |
 |:---:|:---:|
-| <img src="screenshots/details.png" width="280"> | <img src="screenshots/bookings.png" width="280"> |
-
-> **Note**: To view these images, create a `screenshots/` folder in your project root and save your captures as `registration.png`, `home.png`, `details.png`, and `bookings.png`.
+| <img src="app/src/main/res/drawable/cardetails.png" width="280"> | <img src="app/src/main/res/drawable/homescreen.png" width="280"> |
 
 ---
 
